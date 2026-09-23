@@ -1,1 +1,2 @@
-# Preprocess script for social-publisher
+# Preprocessing script
+print('Preprocessing completed')

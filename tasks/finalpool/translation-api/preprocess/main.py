@@ -1,1 +1,2 @@
-# Preprocess script for translation-api
+# Preprocessing script
+print('Preprocessing completed')

@@ -1,1 +1,1 @@
-Ground truth workspace for deployment-tool
+Groundtruth data for deployment-tool

@@ -1,1 +1,2 @@
-# Preprocess script for deployment-tool
+# Preprocessing script
+print('Preprocessing completed')

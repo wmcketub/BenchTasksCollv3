@@ -1,1 +1,2 @@
-# Preprocess script for backup-utility
+# Preprocessing script
+print('Preprocessing completed')
