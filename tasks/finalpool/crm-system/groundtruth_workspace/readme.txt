@@ -1,1 +1,1 @@
-Ground truth workspace for crm-system
+Groundtruth data for crm-system
